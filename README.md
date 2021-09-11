@@ -1,3 +1,3 @@
 - 👋 Hello, I’m @JensHinger
-- 👀 I love Machine Learning and am interested in Quantum Computing
+- 👀 I love Programming and am interested in Data Science, Machine Learning and Quantum Computing
 - 📫 You can reach me on my website: https://www.jens-hinger.de/
