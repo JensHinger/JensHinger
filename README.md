@@ -1,3 +1,4 @@
-- 👋 Hello, I’m @JensHinger
-- 👀 I love Programming and am interested in Data Science, Machine Learning and Quantum Computing
-- 📫 You can reach me on my website: https://www.jens-hinger.de/
+- 👋 Hello, My name is @JensHinger M.Sc. @ THU 
+- 👀 Currently working on a MealPrep website. Trying to get more aquainted with Java/Spring and Next.js.
+- 📫 My Website: https://www.jens-hinger.de/ | Currently undergoing re-design
+
